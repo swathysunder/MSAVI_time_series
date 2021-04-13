@@ -1,2 +1,2 @@
 # MSAVI_time_series
-Assessment for KAWA space
+Please open the notebook in google colab and run the program
